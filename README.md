@@ -1,21 +1,29 @@
-# frimages
+# FaceTrack – Flutter Face Recognition Attendance App
 
-A new Flutter project.
+A Flutter-based attendance application using **on-device face detection** with Google ML Kit. Designed for efficient verification using the camera and a clean, responsive UI.
 
-## Getting Started
+## 🧰 Tech Stack
 
-This project is a starting point for a Flutter application.
+- **Flutter** for cross-platform UI  
+- **Dart** as the programming language  
+- **google_mlkit_face_detection** – for on-device face detection  
+- **image_picker** – to capture photos via camera or gallery  
+- **image** package – for cropping and orientation correction  
+- **CustomPainter** – to draw bounding boxes on detected faces  
+- **State Management:** basic control using `StatefulWidget`  
+- **UI / Widgets:** Material Design components for polished visual design
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Real-time **face detection** for attendance check-in/check-out  
+- Face bounding boxes using **CustomPainter**  
+- Capture and process images from camera/gallery  
+- Lightweight, offline and local processing only (no backend)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# FaceTrack
-# FaceTrack
-# FaceTrack
-# FaceTrack
-# FaceTrack
+## 📁 How to Run
+
+```bash
+git clone https://github.com/Mohitchaudhary0015/FaceTrack.git
+cd FaceTrack
+flutter pub get
+flutter run
