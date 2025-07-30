@@ -17,10 +17,10 @@ A Flutter-based attendance application using **on-device face detection** with G
 ## Screenshot 
 
 
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-07-30 at 23 32 46" src="https://github.com/user-attachments/assets/8652909c-555e-4129-9b4a-943c3213be74" />
+<img width="300" height="650" alt="Simulator Screenshot - iPhone 16 Plus - 2025-07-30 at 23 32 46" src="https://github.com/user-attachments/assets/8652909c-555e-4129-9b4a-943c3213be74" />
 
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-07-30 at 23 32 30" src="https://github.com/user-attachments/assets/7afd0f4f-e02e-400a-a3b4-555f8d37c307" />
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-07-30 at 23 32 57" src="https://github.com/user-attachments/assets/0760cca7-d094-4eb6-bba8-ee462d6ca9e0" />
+<img width="300" height="650" alt="Simulator Screenshot - iPhone 16 Plus - 2025-07-30 at 23 32 30" src="https://github.com/user-attachments/assets/7afd0f4f-e02e-400a-a3b4-555f8d37c307" />
+<img width="300" height="650" alt="Simulator Screenshot - iPhone 16 Plus - 2025-07-30 at 23 32 57" src="https://github.com/user-attachments/assets/0760cca7-d094-4eb6-bba8-ee462d6ca9e0" />
 
 
 
