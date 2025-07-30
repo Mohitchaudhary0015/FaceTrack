@@ -1,6 +1,6 @@
-# FaceTrack – Flutter Face Recognition Attendance App
+# FaceTrack – Flutter Face Recognition App
 
-A Flutter-based attendance application using **on-device face detection** with Google ML Kit. Designed for efficient verification using the camera and a clean, responsive UI.
+A Flutter-based  application using **on-device face detection** with Google ML Kit. Designed for efficient verification using the camera and a clean, responsive UI.
 
 ##  Tech Stack
 
